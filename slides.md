@@ -1,5 +1,5 @@
 ---
-theme: seriph
+theme: default
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -81,6 +81,70 @@ um total de 10 artigos que atenderam os critérios definidos
 
 # Desenvolvimento
 
+<br>
+
+O desenvolvimento deste trabalho consiste em alguns passos, separados em fases que
+seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
+
+---
+
+## Dados utilizados
+
+<br>
+
+<img src="/src/used_data.png" />
+
+---
+layout: two-cols
+---
+
+::default::
+
+## Dados não utilizados
+
+<br>
+
+<img src="/src/non_used_data.png" />
+
+::right::
+
+## Razão para não utilização
+
+<br>
+
+* Inclusos em outros campos
+* Obtidos após a ocorrência do acidente
+* Necessitam de agentes externos para serem obtidos
+
+---
+layout: two-cols
+---
+
+::default::
+
+## Dados adicionados
+
+<br>
+
+<img src="/src/added_data.png" />
+
+::right::
+
+## Fonte da informação
+
+<br>
+
+* Diário Oficial do Distrito Federal (PDF)
+* Associação Brasileira de Concessionárias de Rodovias (Planilha)
+* Departamento Nacional de Infraestrutura de Transportes (API)
+
+---
+
+## Sanitização
+
+<br>
+
+* Remoção de linhas que não possuíam a informação br e km (659 registros)
 ---
 
 # Resultados e Discussão
