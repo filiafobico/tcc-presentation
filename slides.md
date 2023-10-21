@@ -17,6 +17,8 @@ Luis Eduardo Oliveira
 
 # Introdução
 
+<br>
+
 - Acidentes custam, ao Brasil, R$ 40 bilhões por ano ¹
   - R$ 12 bilhões só em rodovias federais
 - A princial causa de morte, entre pessoas de 15 a 29 anos, são acidentes ²
@@ -27,11 +29,25 @@ Luis Eduardo Oliveira
 - Existem exemplos, em outros países, de sistemas que tentam fazer a predição da ocorrência de um acidente em determinada via ⁴
 
 ---
+layout: two-cols
+---
 
-# Objetivos
+::default::
 
-Utilizando os dados publicos, disponibilizados pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente, classificar o tipo de acidente ocorrido. Enriquecendo os dados e fazendo uso de vários modelos de classificação para buscar o que melhor se encaixa nos dados.
+# Objetivo Geral
 
+<br>
+
+Utilizando os informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente, classificar o tipo de acidente ocorrido
+
+::right::
+
+# Objetivos Específicos
+
+<br>
+
+- Enriquecer os dados
+- Fazer uso de difentes modelos de classificação afim de encontrar o que melhor se encaixa nos dados
 ---
 
 # Revisão da Literatura
@@ -51,6 +67,8 @@ Utilizando os dados publicos, disponibilizados pela Polícia Rodoviária Federal
 ---
 
 # Referências
+
+<br>
 
 ¹ IPEA, P. (2015). Acidentes de trânsito nas rodovias federais brasileiras caracterização,
 tendências e custos para a sociedade. Technical report, Instituto de Pesquisa
