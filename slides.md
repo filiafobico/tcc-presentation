@@ -145,6 +145,10 @@ layout: two-cols
 <br>
 
 * Remoção de linhas que não possuíam a informação br e km (659 registros)
+* Preenchimento de linhas sem valor (radares e pedágios)
+* Transformar dados categóricos em numéricos, pois os algoritmos trabalham melhor com dados numéricos
+* Padronizar escala dos dados, para algoritmos que utilizam o plano cartesiano para cálculos de distância
+
 ---
 
 # Resultados e Discussão
