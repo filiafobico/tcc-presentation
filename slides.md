@@ -153,6 +153,37 @@ layout: two-cols
 
 # Resultados e Discussão
 
+## Cenários e experimentos
+
+* 16 com separação entre dados de treino e teste
+* 16 com validação cruzada
+* Utilizando apenas as categorias com mais de 10 mil registros
+* Com ou sem as clunas adicionadas
+* Com ou sem balanceamento nos dados
+  * RandomUnderSampler
+  * NearMiss
+  * OneSidedSelection
+* Algoritmos
+  * DecisionTree
+  * RandomForest
+  * K Nearest Neighbor
+
+---
+
+## Testes com separação de dados entre treino e teste
+
+<br>
+
+<img src="/src/train_test_result.png" class="h-110" />
+
+---
+
+## Testes com validação cruzada
+
+<br>
+
+<img src="/src/cross_validation_result.png" class="h-110" />
+
 ---
 
 # Considerações Finais
