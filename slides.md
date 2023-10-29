@@ -185,7 +185,29 @@ layout: two-cols
 <img src="/src/cross_validation_result.png" class="h-110" />
 
 ---
+layout: two-cols
+---
+
+::default::
 
 # Considerações Finais
+
+* A taxa geral de acurácia foi baixa
+  * Possível falta de dados
+  * Complexidade dos acidentes
+  * Baixa representatividade das colunas adicionadas
+    * feriados ~ 10%
+    * pedágio ~ 1,4%
+    * radares < 3%
+* Sistematização da classificação de acidentes
+* Aparenta ser um estudo inédito, como sugere a análise bibliográfica
+
+::right::
+
+# Trabalhos futuros
+
+* Conjunto de dados maior e mais diversificado
+* Inclusão de mais informações sobre as rodovias
+* Explorar outras técnicas de aprendizado de máquinas
 
 ---
