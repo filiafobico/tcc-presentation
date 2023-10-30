@@ -36,6 +36,7 @@ layout: two-cols
   * Dados adicionados
   * Fonte da informação
   * Fonte da informação
+  * Pré-Processamento
 
 ::right::
 
@@ -175,7 +176,7 @@ layout: two-cols
 
 ---
 
-## Sanitização
+## Pré-Processamento
 
 <br>
 
