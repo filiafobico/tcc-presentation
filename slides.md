@@ -90,12 +90,11 @@ Utilizando os informações disponibilizadas pela Polícia Rodoviária Federal, 
 
 <br>
 
-Para atingir os objetivos da pesquisa, foi realizada uma revisão bibliográfica de artigos
-que abordaram Descoberta de Conhecimento e Mineração de Dados a partir dos dados
-de acidentes da PRF. As strings de busca utilizadas foram **Policia Rodoviária Federal**
-OR **PRF** AND **análise** OR **correlação** OR **classificação**. Os resultados foram
-filtrados por meio da leitura dos resumos e leitura completa dos artigos, resultando em
-um total de 10 artigos que atenderam os critérios definidos
+Para atingir os objetivos da pesquisa:
+- Foi realizada uma revisão bibliográfica de artigos que abordaram Descoberta de Conhecimento e Mineração de Dados a partir dos dados de acidentes da PRF
+- As strings de busca utilizadas foram Policia Rodoviária Federal OR PRF AND análise OR correlação OR classificação
+- Os resultados foram filtrados por meio da leitura dos resumos e leitura completa dos artigos
+- Resultando em um total de 10 artigos que atenderam os critérios definidos
 
 ---
 
