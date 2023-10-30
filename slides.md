@@ -17,6 +17,39 @@ Orientando: Luis Eduardo Oliveira
 Orientador: Prof. Dr. André Pinz Borges
 
 ---
+layout: two-cols
+---
+
+::default::
+
+# Agenda
+
+* Introdução
+* Objetivo Geral e Objetivos Específicos
+* Revisão da Literatura
+  * Trabalhos que buscam correlações
+  * Trabalhos que buscam classificações
+* Desenvolvimento
+  * Dados utilizados
+  * Dados não utilizados
+  * Razão para não utilização
+  * Dados adicionados
+  * Fonte da informação
+  * Fonte da informação
+
+::right::
+
+<br>
+<br>
+
+* Resultados e Discussão
+  * Cenários e experimentos
+  * Testes com separação de dados entre treino e teste
+  * Testes com validação cruzada
+* Considerações Finais
+* Trabalhos futuros
+
+---
 
 # Introdução
 
