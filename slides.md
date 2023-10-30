@@ -55,14 +55,15 @@ layout: two-cols
 
 <br>
 
-- Acidentes custam, ao Brasil, R$ 40 bilhões por ano
+- Acidentes custam (2015), ao Brasil, R$ 40 bilhões por ano [IPEA 2015]
   - R$ 12 bilhões só em rodovias federais
-- A princial causa de morte, entre pessoas de 15 a 29 anos, são acidentes
+- A princial causa de morte, entre pessoas de 15 a 29 anos, são acidentes [OPS 2018]
 
 <br>
 
-- Graças ao aumento da produção e categorização de dados, tornou-se possivel a utilização de técnicas de mineração de dados para tratar problemas complexos
+- Graças ao aumento da produção e categorização de dados, tornou-se possivel a utilização de técnicas de Mineração de Dados para tratar problemas complexos [Fernandes e Chiavegatto 2019]
 - Existem exemplos, em outros países, de sistemas que tentam fazer a predição da ocorrência de um acidente em determinada via
+  - Como o trabalho de [Moosavi et al. 2019] em que se tem um sistema alimetado em tempo real com dados de 2 fontes públicas. É utilizado aprendizagem de reforço e feita a comparação entre 3 modelos de Apredizagem de Máquina.
 
 ---
 layout: two-cols
@@ -245,5 +246,19 @@ layout: two-cols
 * Conjunto de dados maior e mais diversificado
 * Inclusão de mais informações sobre as rodovias
 * Explorar outras técnicas de aprendizado de máquinas
+
+---
+
+# Referências
+
+<br>
+
+IPEA, P. (2015). Acidentes de trânsito nas rodovias federais brasileiras caracterização, tendências e custos para a sociedade. Technical report, Instituto de PesquisaEconômica Aplicada (IPEA).
+
+da Saúde OPS, O. P.-A. (2018). Salvar vidas – pacote de medidas técnicas para a segurança no trânsito. Technical report, Organização Mundial da Saúde (OMS).
+
+Fernandes, F. T. and Chiavegatto, A. D. P. (2019). Perspectivas do uso de mineração de dados e aprendizado de máquina em saúde e segurança no trabalho. Revista Brasileira de Saúde Ocupacional [online], 44.
+
+Moosavi, S., Samavatian, M. H., Parthasarathy, S., Teodorescu, R., and Ramnath, R. (2019). Accident risk prediction based on heterogeneous sparse data: New dataset and insights. In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, SIGSPATIAL ’19, page 33–42, New York, NY, USA. Association for Computing Machinery.
 
 ---
