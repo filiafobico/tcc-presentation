@@ -19,6 +19,11 @@ Orientador: Prof. Dr. André Pinz Borges
 <br>
 <img src="/src/utfpr.png" class="m-0 h-20" />
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+
 ---
 layout: two-cols
 ---
@@ -53,6 +58,10 @@ layout: two-cols
 * Considerações Finais
 * Trabalhos futuros
 
+<footer class="absolute bottom--8 right--14">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Introdução
@@ -69,8 +78,11 @@ layout: two-cols
 - Existem exemplos, em outros países, de sistemas que tentam fazer a predição da ocorrência de um acidente em determinada via
   - Como o trabalho de [Moosavi et al. 2019] em que se tem um sistema alimetado em tempo real com dados de 2 fontes públicas. É utilizado aprendizagem de reforço e feita a comparação entre 3 modelos de Apredizagem de Máquina
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
-
 
 # Objetivo Geral
 
@@ -88,6 +100,10 @@ Utilizando os informações disponibilizadas pela Polícia Rodoviária Federal, 
 - Fazer uso de difentes modelos de classificação para obtenção de informações sobre acidentes
 - Comparar os modelos obtidos
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Revisão da Literatura
@@ -100,6 +116,10 @@ Para atingir os objetivos da pesquisa:
 - Os resultados foram filtrados por meio da leitura dos resumos e leitura completa dos artigos
 - Resultando em um total de 10 artigos que atenderam os critérios definidos
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 ## Trabalhos que buscam correlações
@@ -108,6 +128,10 @@ Para atingir os objetivos da pesquisa:
 
 <img src="/src/works_correlation.png" />
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 ## Trabalhos que buscam classificações
@@ -116,6 +140,10 @@ Para atingir os objetivos da pesquisa:
 
 <img src="/src/works_classification.png" />
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Desenvolvimento
@@ -125,6 +153,10 @@ Para atingir os objetivos da pesquisa:
 O desenvolvimento deste trabalho consiste em alguns passos, separados em fases que
 seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 ## Dados utilizados
@@ -133,6 +165,10 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
 <img src="/src/used_data.png" />
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 layout: two-cols
 ---
@@ -155,6 +191,10 @@ layout: two-cols
 * Obtidos após a ocorrência do acidente
 * Necessitam de agentes externos para serem obtidos
 
+<footer class="absolute bottom--10 right--14">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 layout: two-cols
 ---
@@ -177,6 +217,10 @@ layout: two-cols
 * Associação Brasileira de Concessionárias de Rodovias (Planilha)
 * Departamento Nacional de Infraestrutura de Transportes (API)
 
+<footer class="absolute bottom--10 right--14">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 ## Pré-Processamento
@@ -188,6 +232,10 @@ layout: two-cols
 * Transformar dados categóricos em numéricos, pois os algoritmos trabalham melhor com dados numéricos
 * Padronizar escala dos dados, para algoritmos que utilizam o plano cartesiano para cálculos de distância
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Resultados e Discussão
@@ -207,6 +255,10 @@ layout: two-cols
   * RandomForest
   * K Nearest Neighbor
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 ## Testes com separação de dados entre treino e teste
@@ -215,6 +267,10 @@ layout: two-cols
 
 <img src="/src/train_test_result.png" class="h-110" />
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 ## Testes com validação cruzada
@@ -223,6 +279,10 @@ layout: two-cols
 
 <img src="/src/cross_validation_result.png" class="h-110" />
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Considerações Finais
@@ -237,6 +297,10 @@ layout: two-cols
 * Sistematização da classificação de acidentes
 * Aparenta ser um estudo inédito, como sugere a análise bibliográfica
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Trabalhos futuros
@@ -245,6 +309,10 @@ layout: two-cols
 * Inclusão de mais informações sobre as rodovias
 * Explorar outras técnicas de aprendizado de máquinas
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 
 # Referências
@@ -259,4 +327,8 @@ Fernandes, F. T. and Chiavegatto, A. D. P. (2019). Perspectivas do uso de minera
 
 Moosavi, S., Samavatian, M. H., Parthasarathy, S., Teodorescu, R., and Ramnath, R. (2019). Accident risk prediction based on heterogeneous sparse data: New dataset and insights. In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, SIGSPATIAL ’19, page 33–42, New York, NY, USA. Association for Computing Machinery.
 
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
