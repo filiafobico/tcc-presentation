@@ -79,8 +79,11 @@ Utilizando os informações disponibilizadas pela Polícia Rodoviária Federal, 
 
 <br>
 
-- Enriquecer os dados
-- Fazer uso de difentes modelos de classificação afim de encontrar o que melhor se encaixa nos dados
+- Compreender o conjunto de dados
+- Aplicar as etapas da Descoberta de Conhecimento em Bases de Dados no conjunto de dados de acidentes da PRF
+- Fazer uso de difentes modelos de classificação para obtenção de informações sobre acidentes
+- Comparar os modelos obtidos
+
 ---
 
 # Revisão da Literatura
