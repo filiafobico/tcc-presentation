@@ -11,7 +11,10 @@ title: TCC
 
 # Comparação de modelos de predição de categorias de acidentes nas rodovias federais
 
-Luis Eduardo Oliveira
+<br>
+Orientando: Luis Eduardo Oliveira
+
+Orientador: Prof. Dr. André Pinz Borges
 
 ---
 
