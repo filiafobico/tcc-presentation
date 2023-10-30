@@ -16,6 +16,9 @@ Orientando: Luis Eduardo Oliveira
 
 Orientador: Prof. Dr. André Pinz Borges
 
+<br>
+<img src="/src/utfpr.png" class="m-0 h-20" />
+
 ---
 layout: two-cols
 ---
