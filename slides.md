@@ -220,10 +220,6 @@ layout: two-cols
 <img src="/src/cross_validation_result.png" class="h-110" />
 
 ---
-layout: two-cols
----
-
-::default::
 
 # Considerações Finais
 
@@ -237,7 +233,7 @@ layout: two-cols
 * Sistematização da classificação de acidentes
 * Aparenta ser um estudo inédito, como sugere a análise bibliográfica
 
-::right::
+---
 
 # Trabalhos futuros
 
