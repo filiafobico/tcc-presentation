@@ -63,13 +63,10 @@ layout: two-cols
 
 - Graças ao aumento da produção e categorização de dados, tornou-se possivel a utilização de técnicas de Mineração de Dados para tratar problemas complexos [Fernandes e Chiavegatto 2019]
 - Existem exemplos, em outros países, de sistemas que tentam fazer a predição da ocorrência de um acidente em determinada via
-  - Como o trabalho de [Moosavi et al. 2019] em que se tem um sistema alimetado em tempo real com dados de 2 fontes públicas. É utilizado aprendizagem de reforço e feita a comparação entre 3 modelos de Apredizagem de Máquina.
+  - Como o trabalho de [Moosavi et al. 2019] em que se tem um sistema alimetado em tempo real com dados de 2 fontes públicas. É utilizado aprendizagem de reforço e feita a comparação entre 3 modelos de Apredizagem de Máquina
 
 ---
-layout: two-cols
----
 
-::default::
 
 # Objetivo Geral
 
@@ -77,9 +74,8 @@ layout: two-cols
 
 Utilizando os informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente, classificar o tipo de acidente ocorrido
 
-::right::
 
-# Objetivos Específicos
+## Objetivos Específicos
 
 <br>
 
