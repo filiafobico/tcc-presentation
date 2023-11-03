@@ -153,6 +153,9 @@ Para atingir os objetivos da pesquisa:
 O desenvolvimento deste trabalho consiste em alguns passos, separados em fases que
 seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
+
+<img src="/src/kdd.png" class="h-80" />
+
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
