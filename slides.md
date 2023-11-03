@@ -287,9 +287,64 @@ layout: two-cols
 <br>
 
 * Remoção de linhas que não possuíam a informação br e km (659 registros)
-* Preenchimento de linhas sem valor (radares e pedágios)
+* Preenchimento de linhas sem valor (radares)
 * Transformar dados categóricos em numéricos, pois os algoritmos trabalham melhor com dados numéricos
 * Padronizar escala dos dados, para algoritmos que utilizam o plano cartesiano para cálculos de distância
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
+### Remoção linhas sem br e km
+
+<br>
+
+<img src="/src/delete_cols_without_km_br.png" class="h-110" />
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
+### Preencher linhas vazias
+
+<br>
+
+<img src="/src/fill_na_radars.png" class="h-100" />
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
+### Transformar dados categóricos em numéricos
+
+<br>
+
+```python
+from sklearn.preprocessing import LabelEncoder
+labelencoder = LabelEncoder()
+X_labeled_encoded = labelencoder.fit_transform(X_df)
+```
+
+<br>
+
+### Padronizar escala dos dados
+
+<br>
+
+```python
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+scaler.fit(X_labeled_encoded)
+df_scaled = scaler.transform(X_labeled_encoded)
+```
+
+<!--img src="/src/std_df.png" /-->
 
 <footer class="absolute bottom-0 right-0">
   <br/>
