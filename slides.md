@@ -226,6 +226,20 @@ layout: two-cols
 </footer>
 ---
 
+### Feriados
+
+<br>
+
+<SlidevVideo autoPlay="resume" muted controls>
+  <source src="/src/code_holidays.webm" type="video/webm">
+</SlidevVideo>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
 ## Pré-Processamento
 
 <br>
