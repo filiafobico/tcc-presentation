@@ -240,6 +240,20 @@ layout: two-cols
 </footer>
 ---
 
+### Pedágios
+
+<br>
+
+<SlidevVideo autoPlay="resume" muted controls>
+  <source src="/src/code_tolls.webm" type="video/webm">
+</SlidevVideo>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
 ## Pré-Processamento
 
 <br>
