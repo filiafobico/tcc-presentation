@@ -436,8 +436,8 @@ df_scaled = scaler.transform(X_labeled_encoded)
   * Complexidade dos acidentes
   * Baixa representatividade das colunas adicionadas
     * feriados ~ 10%
-    * pedágio ~ 1,4%
     * radares < 3%
+    * pedágio ~ 46%
 * Sistematização da classificação de acidentes
 * Aparenta ser um estudo inédito, como sugere a análise bibliográfica
 
