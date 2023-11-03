@@ -254,6 +254,20 @@ layout: two-cols
 </footer>
 ---
 
+### Radares
+
+<br>
+
+<SlidevVideo autoPlay="resume" muted controls>
+  <source src="/src/code_radars.webm" type="video/webm">
+</SlidevVideo>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
 ## Pré-Processamento
 
 <br>
