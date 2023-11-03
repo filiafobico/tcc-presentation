@@ -268,6 +268,20 @@ layout: two-cols
 </footer>
 ---
 
+### Resultado
+
+<br>
+
+<SlidevVideo autoPlay="resume" muted controls>
+  <source src="/src/code_join.webm" type="video/webm">
+</SlidevVideo>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
 ## Pré-Processamento
 
 <br>
