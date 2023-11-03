@@ -375,6 +375,36 @@ df_scaled = scaler.transform(X_labeled_encoded)
 </footer>
 ---
 
+### Exemplo de caso de teste
+> Separando os dados em treino e teste, com todas as colunas, todos os tipos de acidentes e sem realizar balanceamento
+
+<br>
+
+<SlidevVideo autoPlay="resume" muted controls class="h-100">
+  <source src="/src/code_first_case.webm" type="video/webm">
+</SlidevVideo>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
+### Exemplo de caso de teste
+> Validação cruzada, sem as colunas adicionadas, apenas com os acidentes com mais de 10 mil registros e com OneSidedSelection
+
+<br>
+
+<SlidevVideo autoPlay="resume" muted controls class="h-100">
+  <source src="/src/code_last_case.webm" type="video/webm">
+</SlidevVideo>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+---
+
 ## Testes com separação de dados entre treino e teste
 
 <br>
