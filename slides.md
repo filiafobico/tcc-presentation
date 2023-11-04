@@ -361,7 +361,7 @@ df_scaled = scaler.transform(X_labeled_encoded)
 * 16 com separação entre dados de treino e teste
 * 16 com validação cruzada
 * Utilizando apenas as categorias com mais de 10 mil registros
-* Com ou sem as clunas adicionadas
+* Com ou sem as colunas adicionadas
 * Com ou sem balanceamento nos dados
   * RandomUnderSampler
   * NearMiss
@@ -407,7 +407,7 @@ df_scaled = scaler.transform(X_labeled_encoded)
 </footer>
 ---
 
-## Testes com separação de dados entre treino e teste
+## Resultados com separação de dados entre treino e teste
 
 <br>
 
@@ -419,7 +419,7 @@ df_scaled = scaler.transform(X_labeled_encoded)
 </footer>
 ---
 
-## Testes com validação cruzada
+## Resultados com validação cruzada
 
 <br>
 
