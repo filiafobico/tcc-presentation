@@ -167,6 +167,7 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 <br>
 
 <img src="/src/used_data.png" />
+<small>Fonte: Dados abertos da Polícia Rodoviária Federal</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
@@ -183,6 +184,7 @@ layout: two-cols
 <br>
 
 <img src="/src/non_used_data.png" />
+<small>Fonte: Dados abertos da Polícia Rodoviária Federal</small>
 
 ::right::
 
