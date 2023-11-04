@@ -212,6 +212,7 @@ layout: two-cols
 <br>
 
 <img src="/src/added_data.png" />
+<small>Fonte: Autoria própria</small>
 
 ::right::
 
