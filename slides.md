@@ -154,7 +154,8 @@ O desenvolvimento deste trabalho consiste em alguns passos, separados em fases q
 seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
 
-<img src="/src/kdd.png" class="h-80" />
+<img src="/src/kdd.png" class="h-75" />
+<small>Fonte: Fayyad et al. 1996</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
@@ -472,6 +473,9 @@ da Saúde OPS, O. P.-A. (2018). Salvar vidas – pacote de medidas técnicas par
 Fernandes, F. T. and Chiavegatto, A. D. P. (2019). Perspectivas do uso de mineração de dados e aprendizado de máquina em saúde e segurança no trabalho. Revista Brasileira de Saúde Ocupacional [online], 44.
 
 Moosavi, S., Samavatian, M. H., Parthasarathy, S., Teodorescu, R., and Ramnath, R. (2019). Accident risk prediction based on heterogeneous sparse data: New dataset and insights. In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, SIGSPATIAL ’19, page 33–42, New York, NY, USA. Association for Computing Machinery.
+
+Fayyad, U., Piatetsky-Shapiro, G., and Smyth, P. (1996). From data mining to knowledge
+discovery in databases. AI Magazine, 17(3):37
 
 <footer class="absolute bottom-0 right-0">
   <br/>
