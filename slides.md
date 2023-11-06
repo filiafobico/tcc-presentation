@@ -35,8 +35,6 @@ layout: two-cols
 * Introdução
 * Objetivo Geral e Objetivos Específicos
 * Revisão da Literatura
-  * Trabalhos que buscam correlações
-  * Trabalhos que buscam classificações
 * Desenvolvimento
   * Dados utilizados
   * Dados não utilizados
@@ -52,9 +50,6 @@ layout: two-cols
 <br>
 
 * Resultados e Discussão
-  * Cenários e experimentos
-  * Testes com separação de dados entre treino e teste
-  * Testes com validação cruzada
 * Considerações Finais
 * Trabalhos futuros
 
