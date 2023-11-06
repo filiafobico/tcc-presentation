@@ -478,3 +478,12 @@ discovery in databases. AI Magazine, 17(3):37
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
 ---
+
+<div h-full flex justify-center items-center gap-2>
+  <h1> Obrigado </h1>
+</div>
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
