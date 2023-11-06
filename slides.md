@@ -83,7 +83,7 @@ layout: two-cols
 
 <br>
 
-Utilizando os informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente, classificar o tipo de acidente ocorrido
+Classificar o tipo de acidente ocorrido, utilizando informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente
 
 
 ## Objetivos Específicos
