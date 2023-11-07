@@ -120,55 +120,73 @@ Para atingir os objetivos da pesquisa:
 ## Trabalhos que buscam correlações
 
 <br>
-
-<img src="/src/works_correlation.png" />
+<small class="flex justify-center">Trabalhos que buscam correlações</small>
+<div class="flex justify-center items-center">
+  <img src="/src/works_correlation.png" class="h-90" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ## Trabalhos que buscam classificações
 
 <br>
-
-<img src="/src/works_classification.png" />
+<small class="flex justify-center">Trabalhos que buscam classificações</small>
+<div class="flex justify-center items-center">
+  <img src="/src/works_classification.png" class="h-90" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 # Desenvolvimento
 
 <br>
-
 O desenvolvimento deste trabalho consiste em alguns passos, separados em fases que
 seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
-
-<img src="/src/kdd.png" class="h-75" />
-<small>Fonte: Fayyad et al. 1996</small>
+<p></p>
+<small class="flex justify-center">Passos do KDD</small>
+<div class="flex justify-center items-center">
+  <img src="/src/kdd.png" class="h-70" />
+</div>
+<small class="flex justify-center">Fonte: Fayyad et al. 1996</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ## Dados utilizados
 
 <br>
-
-<img src="/src/used_data.png" />
-<small>Fonte: Dados abertos da Polícia Rodoviária Federal</small>
+<small class="flex justify-center">Colunas utilizadas</small>
+<div class="flex justify-center items-center">
+  <img src="/src/used_data.png" class="h-70" />
+</div>
+<small class="flex justify-center">Fonte: Dados abertos da Polícia Rodoviária Federal</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 layout: two-cols
 ---
@@ -178,9 +196,11 @@ layout: two-cols
 ## Dados não utilizados
 
 <br>
-
-<img src="/src/non_used_data.png" />
-<small>Fonte: Dados abertos da Polícia Rodoviária Federal</small>
+<small class="flex justify-center">Colunas não utilizadas</small>
+<div class="flex justify-center items-center">
+  <img src="/src/non_used_data.png" />
+</div>
+<small class="flex justify-center">Fonte: Dados abertos da Polícia Rodoviária Federal</small>
 
 ::right::
 
@@ -196,6 +216,8 @@ layout: two-cols
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 layout: two-cols
 ---
@@ -205,9 +227,11 @@ layout: two-cols
 ## Dados adicionados
 
 <br>
-
-<img src="/src/added_data.png" />
-<small>Fonte: Autoria própria</small>
+<small class="flex justify-center">Colunas adicionadas</small>
+<div class="flex justify-center items-center">
+  <img src="/src/added_data.png" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 ::right::
 
@@ -223,62 +247,84 @@ layout: two-cols
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ### Feriados
 
 <br>
-
-<SlidevVideo autoPlay="resume" muted controls>
-  <source src="/src/code_holidays.webm" type="video/webm">
-</SlidevVideo>
+<small class="flex justify-center">Processo de enriquecimento de dados com a informação de feriados</small>
+<div class="flex justify-center items-center">
+  <SlidevVideo autoPlay="resume" muted controls>
+    <source src="/src/code_holidays.webm" type="video/webm">
+  </SlidevVideo>
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ### Pedágios
 
 <br>
-
-<SlidevVideo autoPlay="resume" muted controls>
-  <source src="/src/code_tolls.webm" type="video/webm">
-</SlidevVideo>
+<small class="flex justify-center">Processo de enriquecimento de dados com a informação de feriados</small>
+<div class="flex justify-center items-center">
+  <SlidevVideo autoPlay="resume" muted controls>
+    <source src="/src/code_tolls.webm" type="video/webm">
+  </SlidevVideo>
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ### Radares
 
 <br>
-
-<SlidevVideo autoPlay="resume" muted controls>
-  <source src="/src/code_radars.webm" type="video/webm">
-</SlidevVideo>
+<small class="flex justify-center">Processo de enriquecimento de dados com a informação de radares</small>
+<div class="flex justify-center items-center">
+  <SlidevVideo autoPlay="resume" muted controls>
+    <source src="/src/code_radars.webm" type="video/webm">
+  </SlidevVideo>
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ### Resultado
 
 <br>
-
-<SlidevVideo autoPlay="resume" muted controls>
-  <source src="/src/code_join.webm" type="video/webm">
-</SlidevVideo>
+<small class="flex justify-center">Adicionando dados do processo de enriquecimento no conjuto original</small>
+<div class="flex justify-center items-center">
+  <SlidevVideo autoPlay="resume" muted controls class="h-95">
+    <source src="/src/code_join.webm" type="video/webm">
+  </SlidevVideo>
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ## Pré-Processamento
@@ -299,25 +345,36 @@ layout: two-cols
 ### Remoção linhas sem br e km
 
 <br>
+<small class="flex justify-center">Remoção de linhas sem valores</small>
+<div class="flex justify-center items-center">
+  <img src="/src/delete_cols_without_km_br.png" class="h-95" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
-<img src="/src/delete_cols_without_km_br.png" class="h-110" />
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
-### Preencher linhas vazias
+### Preencher linhas sem valor
 
 <br>
-
-<img src="/src/fill_na_radars.png" class="h-100" />
+<small class="flex justify-center">Preencher linhas sem valor</small>
+<div class="flex justify-center items-center">
+  <img src="/src/fill_na_radars.png" class="h-100" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ### Transformar dados categóricos em numéricos
@@ -378,54 +435,74 @@ df_scaled = scaler.transform(X_labeled_encoded)
 > Separando os dados em treino e teste, com todas as colunas, todos os tipos de acidentes e sem realizar balanceamento
 
 <br>
-
-<SlidevVideo autoPlay="resume" muted controls class="h-100">
-  <source src="/src/code_first_case.webm" type="video/webm">
-</SlidevVideo>
+<small class="flex justify-center">Caso de teste sem tratativa nos dados</small>
+<div class="flex justify-center items-center">
+  <SlidevVideo autoPlay="resume" muted controls class="h-90">
+    <source src="/src/code_first_case.webm" type="video/webm">
+  </SlidevVideo>
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ### Exemplo de caso de teste
 > Validação cruzada, sem as colunas adicionadas, apenas com os acidentes com mais de 10 mil registros e com OneSidedSelection
 
 <br>
-
-<SlidevVideo autoPlay="resume" muted controls class="h-100">
-  <source src="/src/code_last_case.webm" type="video/webm">
-</SlidevVideo>
+<small class="flex justify-center">Caso de teste com tratativas nos dados</small>
+<div class="flex justify-center items-center">
+  <SlidevVideo autoPlay="resume" muted controls class="h-90">
+    <source src="/src/code_last_case.webm" type="video/webm">
+  </SlidevVideo>
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ## Resultados com separação de dados entre treino e teste
 
 <br>
-
-<img src="/src/train_test_result.png" class="h-110" />
+<small class="flex justify-center">Resultados com separação de dados entre treino e teste</small>
+<div class="flex justify-center items-center">
+  <img src="/src/train_test_result.png" class="h-100" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 ## Resultados com validação cruzada
 
 <br>
-
-<img src="/src/cross_validation_result.png" class="h-110" />
+<small class="flex justify-center">Resultados com validação cruzada</small>
+<div class="flex justify-center items-center">
+  <img src="/src/cross_validation_result.png" class="h-100" />
+</div>
+<small class="flex justify-center">Fonte: Autoria própria</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+
 ---
 
 # Considerações Finais
@@ -479,7 +556,7 @@ discovery in databases. AI Magazine, 17(3):37
 </footer>
 ---
 
-<div h-full flex justify-center items-center gap-2>
+<div class="h-full flex justify-center items-center gap-2">
   <h1> Obrigado </h1>
 </div>
 
