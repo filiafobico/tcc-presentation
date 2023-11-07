@@ -69,14 +69,21 @@ layout: two-cols
 
 <br>
 
-- Graças ao aumento da produção e categorização de dados, tornou-se possivel a utilização de técnicas de Mineração de Dados para tratar problemas complexos (FERNANDES; CHIAVEGATTO, 2019)
-- Existem exemplos, em outros países, de sistemas que tentam fazer a predição da ocorrência de um acidente em determinada via
-  - Como o trabalho de (MOOSAVI et al., 2019) em que se tem um sistema alimetado em tempo real com dados de 2 fontes públicas. É utilizado aprendizagem de reforço e feita a comparação entre 3 modelos de Apredizagem de Máquina
+- Utilização de técnicas de Mineração de Dados para tratar problemas complexos (FERNANDES; CHIAVEGATTO, 2019)
+- Trabalho de (MOOSAVI et al., 2019)
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+<!--
+De acordo com FERNANDES: com o aumento da produção e categorização de dados, torna-se possivel a utilização de técnicas de Mineração de Dados para tratar problemas complexos
+
+Existem exemplos, em outros países, de sistemas que tentam fazer a predição da ocorrência de um acidente em determinada via
+(MOOSAVI et al., 2019) em que foi criado um sistema alimetado em tempo real com dados de 2 fontes públicas. O trabalho utiliza aprendizagem por reforço e faz a comparação entre 3 modelos de Apredizagem de Máquina
+-->
+
 ---
 
 # Objetivo Geral
@@ -162,7 +169,7 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 <div class="flex justify-center items-center">
   <img src="/src/kdd.png" class="h-70" />
 </div>
-<small class="flex justify-center">Fonte: Fayyad et al. 1996</small>
+<small class="flex justify-center">Fonte: Adaptado de Fayyad et al. 1996</small>
 
 <footer class="absolute bottom-0 right-0">
   <br/>
@@ -217,6 +224,15 @@ layout: two-cols
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
 
+<!--
+1. São campos que a informação já existe em uma das colunas que serão utilizadas. Como horário que está incluso no campos de fase_dia.
+
+2. São campos que a informação só existe após a ocorrência do acidente, como a causa do acidente.
+
+A proposta do trabalho é justamente tentar generalizar um modelo para prever um acidente, então não teria como utilizar os dados que existem apenas após a ocorrencia do acidente.
+
+3. São informações que precisariam de algum tipo de sensor para captar em tempo real, como quantidade de carros no trecho ou quantidade de pessoas envolvidas.
+-->
 
 ---
 layout: two-cols
@@ -429,6 +445,23 @@ df_scaled = scaler.transform(X_labeled_encoded)
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
+<!--
+o balanceamento utilizado fora o undersampling, que tem o objetivo de reduzir as colunas com mais dados para que o dataset não fique muito desigual.
+
+- Random
+Deixa todas as categorias com o tamanho da menor categoria, escolhendo os dados ficam de forma aleatória.
+
+- NearMiss
+Funciona similar ao Random, mas utiliza euristicas, como KDD, para decidir quais dados fiocam na no conjunto resultante.
+
+- OneSidedSelection
+Também diminui o tamanho das classes, mas não deixa todas do mesmo tamanho. 
+Utiliza euristicas mais finas para tratar os dados como casos que redundantes, ou outliers.
+
+https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_to_Unbalanced_Datasets
+-->
+
 ---
 
 ### Exemplo de caso de teste
