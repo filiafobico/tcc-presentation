@@ -100,7 +100,7 @@ Classificar o tipo de acidente ocorrido, utilizando informações disponibilizad
 
 Para atingir os objetivos da pesquisa:
 - Foi realizada uma revisão bibliográfica de artigos que abordaram Descoberta de Conhecimento e Mineração de Dados a partir dos dados de acidentes da PRF
-- As strings de busca utilizadas foram Policia Rodoviária Federal OR PRF AND análise OR correlação OR classificação
+- A string de busca utilizada foi "Policia Rodoviária Federal OR PRF AND análise OR correlação OR classificação"
 - Os resultados foram filtrados por meio da leitura dos resumos e leitura completa dos artigos
 - Resultando em um total de 10 artigos que atenderam os critérios definidos
 
@@ -108,6 +108,7 @@ Para atingir os objetivos da pesquisa:
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
 ---
 
 ## Trabalhos que buscam correlações
