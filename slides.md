@@ -114,7 +114,7 @@ Para atingir os objetivos da pesquisa:
 ## Trabalhos que buscam correlações
 
 <br>
-<small class="flex justify-center">Trabalhos que buscam correlações</small>
+<small class="flex justify-center">Quadro 1. Dados dos trabalhos que buscam correlações</small>
 <div class="flex justify-center items-center">
   <img src="/src/works_correlation.png" class="h-90" />
 </div>
@@ -131,7 +131,7 @@ Para atingir os objetivos da pesquisa:
 ## Trabalhos que buscam classificações
 
 <br>
-<small class="flex justify-center">Trabalhos que buscam classificações</small>
+<small class="flex justify-center">Quadro 2. Dados de trabalhos que buscam classificações</small>
 <div class="flex justify-center items-center">
   <img src="/src/works_classification.png" class="h-90" />
 </div>
@@ -152,7 +152,7 @@ O desenvolvimento deste trabalho consiste em alguns passos, separados em fases q
 seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
 <p></p>
-<small class="flex justify-center">Passos do KDD</small>
+<small class="flex justify-center">Figura 1. Passos do KDD</small>
 <div class="flex justify-center items-center">
   <img src="/src/kdd.png" class="h-70" />
 </div>
@@ -169,7 +169,7 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 ## Dados utilizados
 
 <br>
-<small class="flex justify-center">Colunas utilizadas</small>
+<small class="flex justify-center">Quadro 3. Dados da PRF</small>
 <div class="flex justify-center items-center">
   <img src="/src/used_data.png" class="h-70" />
 </div>
@@ -190,7 +190,7 @@ layout: two-cols
 ## Dados não utilizados
 
 <br>
-<small class="flex justify-center">Colunas não utilizadas</small>
+<small class="flex justify-center">Quadro 4. Dados da PRF não utilizadas</small>
 <div class="flex justify-center items-center">
   <img src="/src/non_used_data.png" />
 </div>
@@ -230,7 +230,7 @@ layout: two-cols
 ## Dados adicionados
 
 <br>
-<small class="flex justify-center">Colunas adicionadas</small>
+<small class="flex justify-center">Quadro 5. Colunas adicionadas</small>
 <div class="flex justify-center items-center">
   <img src="/src/added_data.png" />
 </div>
@@ -257,7 +257,7 @@ layout: two-cols
 ### Feriados
 
 <br>
-<small class="flex justify-center">Processo de enriquecimento de dados com a informação de feriados</small>
+<small class="flex justify-center">Codigo 1. Algoritmo de enriquecimento de dados com a informação de feriados</small>
 <div class="flex justify-center items-center">
   <SlidevVideo autoPlay="resume" muted controls>
     <source src="/src/code_holidays.webm" type="video/webm">
@@ -276,7 +276,7 @@ layout: two-cols
 ### Pedágios
 
 <br>
-<small class="flex justify-center">Processo de enriquecimento de dados com a informação de feriados</small>
+<small class="flex justify-center">Codigo 2. Algoritmo de enriquecimento de dados com a informação de feriados</small>
 <div class="flex justify-center items-center">
   <SlidevVideo autoPlay="resume" muted controls>
     <source src="/src/code_tolls.webm" type="video/webm">
@@ -295,7 +295,7 @@ layout: two-cols
 ### Radares
 
 <br>
-<small class="flex justify-center">Processo de enriquecimento de dados com a informação de radares</small>
+<small class="flex justify-center">Codigo 3. Algoritmo de enriquecimento de dados com a informação de radares</small>
 <div class="flex justify-center items-center">
   <SlidevVideo autoPlay="resume" muted controls>
     <source src="/src/code_radars.webm" type="video/webm">
@@ -314,7 +314,7 @@ layout: two-cols
 ### Resultado
 
 <br>
-<small class="flex justify-center">Adicionando dados do processo de enriquecimento no conjuto original</small>
+<small class="flex justify-center">Codigo 4. Algoritmo para enriquecimento da base original</small>
 <div class="flex justify-center items-center">
   <SlidevVideo autoPlay="resume" muted controls class="h-95">
     <source src="/src/code_join.webm" type="video/webm">
@@ -366,7 +366,7 @@ layout: two-cols
 ### Preencher linhas sem valor
 
 <br>
-<small class="flex justify-center">Preencher linhas sem valor</small>
+<small class="flex justify-center">Codigo 5. Algoritmo para preenchimento de linhas sem valor</small>
 <div class="flex justify-center items-center">
   <img src="/src/fill_na_radars.png" class="h-100" />
 </div>
@@ -455,7 +455,7 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 > Separando os dados em treino e teste, com todas as colunas, todos os tipos de acidentes e sem realizar balanceamento
 
 <br>
-<small class="flex justify-center">Caso de teste sem tratativa nos dados</small>
+<small class="flex justify-center">Código 6. Caso de teste sem tratativa nos dados</small>
 <div class="flex justify-center items-center">
   <SlidevVideo autoPlay="resume" muted controls class="h-90">
     <source src="/src/code_first_case.webm" type="video/webm">
@@ -475,7 +475,7 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 > Validação cruzada, sem as colunas adicionadas, apenas com os acidentes com mais de 10 mil registros e com OneSidedSelection
 
 <br>
-<small class="flex justify-center">Caso de teste com tratativas nos dados</small>
+<small class="flex justify-center">Código 7. Caso de teste com tratativas nos dados</small>
 <div class="flex justify-center items-center">
   <SlidevVideo autoPlay="resume" muted controls class="h-90">
     <source src="/src/code_last_case.webm" type="video/webm">
@@ -494,7 +494,7 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 ## Resultados com separação de dados entre treino e teste
 
 <br>
-<small class="flex justify-center">Resultados com separação de dados entre treino e teste</small>
+<small class="flex justify-center">Tabela 1. Resultados com separação de dados entre treino e teste</small>
 <div class="flex justify-center items-center">
   <img src="/src/train_test_result.png" class="h-100" />
 </div>
@@ -511,7 +511,7 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 ## Resultados com validação cruzada
 
 <br>
-<small class="flex justify-center">Resultados com validação cruzada</small>
+<small class="flex justify-center">Tabela 2. Resultados com validação cruzada</small>
 <div class="flex justify-center items-center">
   <img src="/src/cross_validation_result.png" class="h-100" />
 </div>
