@@ -193,7 +193,7 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 <br>
 <small class="flex justify-center">Quadro 3. Dados da PRF</small>
 <div class="flex justify-center items-center">
-  <img src="/src/used_data.png" class="h-70" />
+  <img src="/src/used_data.png" class="h-90" />
 </div>
 <small class="flex justify-center">Fonte: Dados abertos da Polícia Rodoviária Federal</small>
 
