@@ -202,7 +202,25 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
 
+---
 
+## Tipo dos dados
+
+<br>
+
+* data_inversa - *ex: 2021-01-01*
+* dia_semana - *ex: sexta-feira*
+* br - *ex: 101*
+* km - *ex: 314.9*
+* uf - *ex: PR*
+* fase_dia - *Plena Noite, Anoitecer, Pleno dia, Amanhecer*
+* condicao_metereologica - *Chuva, Nublado, Céu Claro, Vento, Neve, Granizo, Nevoeiro/Neblina, Sol, Ignorado, Garoa/Chuvisco*
+* tipo_acidente - *Colisão traseira, Colisão com objeto, Incêndio, Colisão lateral, Saída de leito carroçável, Atropelamento de Pedestre, Colisão frontal, Capotamento, Atropelamento de Animal, Tombamento, Colisão transversal, Queda de ocupante de veículo, Colisão lateral mesmo sentido, Colisão lateral sentido oposto, Engavetamento, Derramamento de carga, Eventos atípicos, Colisão com objeto estático, Colisão com objeto em movimento, Danos eventuais*
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
 ---
 layout: two-cols
 ---
