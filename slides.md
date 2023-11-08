@@ -332,19 +332,23 @@ layout: two-cols
 
 ---
 
-## Pré-Processamento
+## Demais etapas do pré-processamento
 
 <br>
 
-* Remoção de linhas que não possuíam a informação br e km (659 registros)
-* Preenchimento de linhas sem valor (radares)
+* Remover linhas que não possuíam a informação br e km (659 instâncias)
+  * Correspondente a < 0,2% da base original (343.327 mil instâncias)
+* Preencher linhas sem valor (radares)
 * Transformar dados categóricos em numéricos, pois os algoritmos trabalham melhor com dados numéricos
-* Padronizar escala dos dados, para algoritmos que utilizam o plano cartesiano para cálculos de distância
+  * LabelEncoder
+* Normalizar os dados para algoritmos que utilizam o plano cartesiano para cálculos de distância
+  * StandardScaler
 
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
 ---
 
 ### Remoção linhas sem br e km
