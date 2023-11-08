@@ -454,7 +454,7 @@ Deixa todas as categorias com o tamanho da menor categoria, escolhendo os dados 
 Funciona similar ao Random, mas utiliza euristicas, como KDD, para decidir quais dados fiocam na no conjunto resultante.
 
 - OneSidedSelection
-Também diminui o tamanho das classes, mas não deixa todas do mesmo tamanho. 
+Também diminui o tamanho das classes, mas não deixa todas do mesmo tamanho.
 Utiliza euristicas mais finas para tratar os dados como casos que redundantes, ou outliers.
 
 https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_to_Unbalanced_Datasets
@@ -536,7 +536,9 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 
 ---
 
-# Considerações Finais
+# Discussão
+
+<br>
 
 * A taxa geral de acurácia foi baixa
   * Possível falta de dados
