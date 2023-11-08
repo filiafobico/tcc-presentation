@@ -49,14 +49,14 @@ Orientador: Prof. Dr. André Pinz Borges
 
 <br>
 
-- Acidentes custam (2015), ao Brasil, R$ 40 bilhões por ano (IPEA, 2015)
+- Acidentes custam R$ 40 bilhões por ano (IPEA, 2015)
   - R$ 12 bilhões só em rodovias federais
-- A princial causa de morte, entre pessoas de 15 a 29 anos, são acidentes (OPS, 2018)
+  - A principal causa de morte entre pessoas de 15 a 29 anos (OPS, 2018)
 
 <br>
 
 - Utilização de técnicas de Mineração de Dados para tratar problemas complexos (FERNANDES; CHIAVEGATTO, 2019)
-- Trabalho de (MOOSAVI et al., 2019)
+  - Trabalho de (MOOSAVI et al., 2019) utiliza aprendizagem por reforço e faz a comparação entre 3 modelos de Apredizagem de Máquina
 
 <footer class="absolute bottom-0 right-0">
   <br/>
