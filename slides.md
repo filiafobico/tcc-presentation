@@ -27,10 +27,6 @@ Orientador: Prof. Dr. André Pinz Borges
 </footer>
 
 ---
-layout: two-cols
----
-
-::default::
 
 # Agenda
 
@@ -38,27 +34,15 @@ layout: two-cols
 * Objetivo Geral e Objetivos Específicos
 * Revisão da Literatura
 * Desenvolvimento
-  * Dados utilizados
-  * Dados não utilizados
-  * Razão para não utilização
-  * Dados adicionados
-  * Fonte da informação
-  * Fonte da informação
-  * Pré-Processamento
-
-::right::
-
-<br>
-<br>
-
 * Resultados e Discussão
 * Considerações Finais
 * Trabalhos futuros
 
-<footer class="absolute bottom--8 right--14">
+<footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
 ---
 
 # Introdução
