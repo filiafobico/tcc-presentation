@@ -19,6 +19,8 @@ Orientador: Prof. Dr. André Pinz Borges
 <br>
 <img src="/src/utfpr.png" class="m-0 h-20" />
 
+<small class="absolute bottom-15 right-5">Sumetido ao evento <a href="http://erigo.sbc.org.br/">XI ERI-GO</a></small>
+
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
