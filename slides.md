@@ -76,8 +76,7 @@ Existem exemplos, em outros países, de sistemas que tentam fazer a predição d
 
 <br>
 
-Classificar o tipo de acidente ocorrido, utilizando informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente
-
+Classificar o tipo de acidente, utilizando informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente
 
 ## Objetivos Específicos
 
@@ -85,7 +84,7 @@ Classificar o tipo de acidente ocorrido, utilizando informações disponibilizad
 
 - Compreender o conjunto de dados
 - Aplicar as etapas da Descoberta de Conhecimento em Bases de Dados no conjunto de dados de acidentes da PRF
-- Fazer uso de difentes modelos de classificação para obtenção de informações sobre acidentes
+- Fazer uso de difentes modelos de classificação
 - Comparar os modelos obtidos
 
 <footer class="absolute bottom-0 right-0">
@@ -549,10 +548,38 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 * Sistematização da classificação de acidentes
 * Aparenta ser um estudo inédito, como sugere a análise bibliográfica
 
+
 <footer class="absolute bottom-0 right-0">
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+---
+
+# Considerações Finais
+
+<br>
+
+* Compreender o conjunto de dados
+* Aplicar as etapas da Descoberta de Conhecimento em Bases de Dados no conjunto de dados de acidentes da PRF
+* Fazer uso de difentes modelos de classificação
+* Comparar os modelos obtidos
+
+Classificar o tipo de acidente, utilizando informações disponibilizadas pela Polícia Rodoviária Federal, sem a utilização de dados que existem apenas após a ocorrência do acidente
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+
+<!--
+> Objetivo atingido com a realização do trabalho
+> Fora aplicado os passos do KDD que contribuiu para o desenvolvimento da pesquisa
+> Foram utilizados 3 modelos diferentes
+> Fora comparado os 32 casos de testes e apontado os melhores resultados
+
+Apesar da taxa de acerto ser baixa, o que se propôs foi realizado
+-->
+
 ---
 
 # Trabalhos futuros
