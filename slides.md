@@ -168,6 +168,26 @@ seguem o processo de Descoberta de Conhecimento em Bases de Dados ou KDD
 
 ---
 
+## Ferramentas utilizadas
+
+<br>
+
+* MongoDBAtlas
+* MongoDBCompass
+* Google Colab
+* Python
+  * pandas
+  * numpy
+  * imblearn
+  * sklearn
+
+<footer class="absolute bottom-0 right-0">
+  <br/>
+  <small><SlideCurrentNo/>/<SlidesTotal/></small>
+</footer>
+
+---
+
 ## Dados utilizados
 
 <br>
