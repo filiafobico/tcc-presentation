@@ -587,8 +587,9 @@ Apesar da taxa de acerto ser baixa, o que se propôs foi realizado
 # Trabalhos futuros
 
 * Conjunto de dados maior e mais diversificado
-* Inclusão de mais informações sobre as rodovias
-* Explorar outras técnicas de aprendizado de máquinas
+* Inclusão de mais informações sobre as rodovias, como dados de radares móveis
+* Explorar outras técnicas de Aprendizagem de Máquina
+* Agrupar os tipos de acidentes para reduzir a quantidade de categorias
 
 <footer class="absolute bottom-0 right-0">
   <br/>
