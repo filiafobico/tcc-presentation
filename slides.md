@@ -386,53 +386,20 @@ layout: two-cols
 
 ---
 
-### Transformar dados categóricos em numéricos
-
-<br>
-
-```python
-from sklearn.preprocessing import LabelEncoder
-labelencoder = LabelEncoder()
-X_labeled_encoded = labelencoder.fit_transform(X_df)
-```
-
-<br>
-
-### Padronizar escala dos dados
-
-<br>
-
-```python
-from sklearn.preprocessing import StandardScaler
-scaler = StandardScaler()
-scaler.fit(X_labeled_encoded)
-df_scaled = scaler.transform(X_labeled_encoded)
-```
-
-<!--img src="/src/std_df.png" /-->
-
-<footer class="absolute bottom-0 right-0">
-  <br/>
-  <small><SlideCurrentNo/>/<SlidesTotal/></small>
-</footer>
----
-
 # Resultados e Discussão
 
-## Cenários e experimentos
+## Cenários
+<br>
 
-* 16 com separação entre dados de treino e teste
+* Base enriquecida possui 342.668 mil instâncias e 10 atributos
+* 16 com separação entre dados de treinamento e teste (70% x 30%)
 * 16 com validação cruzada
 * Utilizando apenas as categorias com mais de 10 mil registros
 * Com ou sem as colunas adicionadas
 * Com ou sem balanceamento nos dados
-  * RandomUnderSampler
-  * NearMiss
-  * OneSidedSelection
+  * RandomUnderSampler, NearMiss, OneSidedSelection
 * Algoritmos
-  * DecisionTree
-  * RandomForest
-  * K Nearest Neighbor
+  * DecisionTree, RandomForest, K-Nearest Neighbor
 
 <footer class="absolute bottom-0 right-0">
   <br/>
