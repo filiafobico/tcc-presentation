@@ -532,7 +532,7 @@ https://www.researchgate.net/publication/226859454_Applying_One-Sided_Selection_
 
 <br>
 
-IPEA, P. (2015). Acidentes de trânsito nas rodovias federais brasileiras caracterização, tendências e custos para a sociedade. Technical report, Instituto de PesquisaEconômica Aplicada (IPEA).
+IPEA, P. (2015). Acidentes de trânsito nas rodovias federais brasileiras caracterização, tendências e custos para a sociedade. Technical report, Instituto de Pesquisa Econômica Aplicada (IPEA).
 
 da Saúde OPS, O. P.-A. (2018). Salvar vidas – pacote de medidas técnicas para a segurança no trânsito. Technical report, Organização Mundial da Saúde (OMS).
 
@@ -547,6 +547,7 @@ discovery in databases. AI Magazine, 17(3):37
   <br/>
   <small><SlideCurrentNo/>/<SlidesTotal/></small>
 </footer>
+
 ---
 
 <div class="h-full flex justify-center items-center gap-2">
