@@ -433,6 +433,7 @@ layout: two-cols
 * 16 com separação entre dados de treinamento e teste (70% x 30%)
 * 16 com validação cruzada
 * Utilizando apenas as categorias com mais de 10 mil registros
+> Atropelamento de Animal, Incêndio, Engavetamento, Colisão lateral mesmo sentido, Colisão com objeto, Colisão com objeto em movimento, Colisão lateral sentido oposto, Derramamento de carga, Danos eventuais, Eventos atípicos
 * Com ou sem as colunas adicionadas
 * Com ou sem balanceamento nos dados
   * RandomUnderSampler, NearMiss, OneSidedSelection
