@@ -7,6 +7,7 @@ drawings:
   persist: false
 transition: fade-out
 title: TCC
+record: true
 ---
 
 # Comparação de modelos de predição de categorias de acidentes nas rodovias federais
